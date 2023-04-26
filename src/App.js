@@ -1,4 +1,5 @@
 import {BrowserRouter, Route, Routes} from "react-router-dom";
+import 'semantic-ui-css/semantic.min.css'
 import './App.css';
 import Home from "./pages/Home";
 import Series from "./pages/Series";
